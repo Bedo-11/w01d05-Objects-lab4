@@ -22,8 +22,7 @@ Every 'Meal' must have:
 
 Then, create the following methods for your instance of a 'User':
 
-- `caloriesEatenOn`, which accepts a date (in the format above) and calculates
-    the total number of calories consumed on that date.
+- `caloriesEatenOn`, which accepts a date (in the format above) and calculates the total number of calories consumed on that date.
 - `avgDailyCalories`, which (as indicated), calculates the average number of
     calories consumed per day, rounded down to the nearest whole calorie.
 - `onTrack`, which compares averageDailyCalories to the User's target daily
